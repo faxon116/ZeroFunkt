@@ -1,5 +1,5 @@
-# For more tools
-
+# For more tools Or Get the latest version
+Talk to me via Telegram
 # Telegram https://t.me/xConKronos
 
 # ZeroFunkt
