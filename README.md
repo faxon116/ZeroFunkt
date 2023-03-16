@@ -1,5 +1,5 @@
-Telegram https://t.me/xConKronos
-
+For more tools
+#Telegram https://t.me/xConKronos
 
 # ZeroFunkt
 Zero font obfuscation for your html letters. Multiple alphabets
